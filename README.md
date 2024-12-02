@@ -1,8 +1,8 @@
 ## 👋 Hi there! I'm James  
 I am a passionate Full Stack Developer with a strong focus on JavaScript technologies. I love building dynamic and responsive web applications that deliver seamless user experiences.  
 ### 🔧 Technologies & Tools  
-- Frontend: React, AlpineJS, HTML5, CSS3
-- Backend: Node.js, Express, MongoDB, SQL
+- Frontend: React, AlpineJS, PHP, HTML5, CSS3
+- Backend: Node.js, Laravel, Express, MongoDB, SQL
 - DevOps: Git, CI/CD
 - Other: HubSpot, WordPress, REST APIs, TypeScript
 ### 🌱 Currently Learning
